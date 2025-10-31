@@ -469,7 +469,7 @@
 
 .groom-photo {
   transform: rotate(4deg);
-  object-position: 75% 80%;
+  object-position: 90% 20%;
 }
 
 .individual-photo-frame:hover .individual-photo {
