@@ -4,11 +4,13 @@
 
 // Sample wedding images - Replace with actual wedding photos
 const weddingImages = [
-  "./img/z7152877471616_5792790765329f2605eec58b3bf97760.jpg",
-  "./img/z7152877471720_1e6f78a263f859d98e3e4c04b8e0e597.jpg",
-  "./img/z7152877495690_0f5c3e0ae4cdbe7602b9ba49d64d844a.jpg",
-  "./img/z7152877496921_c9721190a996c17a89ff34294a38c4a9.jpg",
-  "./img/z7152877498853_579a191826a7f96bfa252212c07a3843.jpg",
+  "./img/OK-1-001/OK/DSC_4902.jpg",
+  "./img/OK-1-001/OK/DSC_4964.jpg",
+  "./img/OK-1-001/OK/DSC_5001.jpg",
+  "./img/OK-1-001/OK/DSC_5182.jpg",
+  "./img/OK-1-001/OK/DSC_5161.jpg",
+  "./img/OK-1-001/OK/DSC_5215.jpg",
+  "./img/OK-1-001/OK/DSC_5015.jpg",
 ];
 
 // Wedding date configuration

@@ -2661,3 +2661,10 @@
     display: none; /* ẩn tooltip trên điện thoại để không che giao diện */
   }
 }
+/*qr-code*/
+.qr-code img {
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid #ccc;
+}
